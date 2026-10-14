@@ -1,24 +1,8 @@
-<div align="center">
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=false&width=700&height=80&lines=Pooja+Garibe" alt="Pooja Garibe" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=6366F1&center=true&vCenter=true&width=700&height=40&lines=Backend+Engineering+%7C+Software+Development;AI-Driven+Automation+%26+Generative+AI;Open+Source+%7C+Learn.+Build.+Improve." alt="Tagline" /> <h3>🎓 B.Tech Information Technology &amp; Engineering Student</h3> <p>Building functional software with <b>Java, Python, Spring Boot, Generative AI &amp; Workflow Automation</b></p>
 
-<img src="assets/header.svg" width="100%" alt="Pooja Garibe" />
-
-<h3>🎓 B.Tech Information Technology &amp; Engineering Student</h3>
-
-<p>Building functional software with <b>Java, Python, Spring Boot, Generative AI &amp; Workflow Automation</b></p>
-
-<a href="https://www.linkedin.com/in/pooja-garibe123"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:poojagaribe6@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Pooja650650"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<br/>
-
-<img src="https://img.shields.io/github/followers/Pooja650650?label=Followers&style=for-the-badge&logo=github&color=6e40c9&labelColor=24292e" alt="Followers" />
-<img src="https://img.shields.io/badge/Open%20to-Internships-6e40c9?style=for-the-badge&labelColor=24292e" alt="Open to Internships" />
+<a href="https://www.linkedin.com/in/pooja-garibe123"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:poojagaribe6@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://github.com/Pooja650650"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <br/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=8B5CF6&center=true&vCenter=true&width=700&height=40&lines=Backend+Engineering+%7C+Software+Development;AI-Driven+Automation+%26+Generative+AI;Open+Source+%7C+Learn.+Build.+Improve." alt="Typing animation" />
-
-</div>
-
----
+<img src="https://img.shields.io/github/followers/Pooja650650?label=Followers&style=for-the-badge&logo=github&color=6e40c9&labelColor=24292e" alt="Followers" /> <img src="https://img.shields.io/badge/Open%20to-Internships-6e40c9?style=for-the-badge&labelColor=24292e" alt="Open to Internships" /> </div>
 
 ## 👋 About Me
 
