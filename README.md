@@ -106,16 +106,10 @@ An interactive AI assistant with medical reasoning and prescription validation f
 
 ---
 
-## 📫 Let's Connect
+<div align="center"> <h3>📫 Let's Connect</h3>
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/pooja-garibe123"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:poojagaribe6@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Pooja650650"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/pooja-garibe123"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:poojagaribe6@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://github.com/Pooja650650"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
 
-<img src="assets/footer.svg" width="100%" alt="Learn. Build. Improve. Repeat." />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=8B5CF6&center=true&vCenter=true&width=600&height=45&lines=Learn.+Build.+Improve.+Repeat." alt="Learn. Build. Improve. Repeat." />
